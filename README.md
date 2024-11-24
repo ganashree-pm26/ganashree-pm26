@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @ganashree-pm26
-- 👀 I’m interested in Drawing, Reading novels and Coding
-- 🌱 I’m currently learning Python Intermediate Course
+Hi Everyone, This is Ganashree P M
+I am currently persuing my degree in RVCE(Information science and engineering)
+I have great intrest in Competative coding(using c c++)
+Web designing and machine learning also intrests me
 
 <!---
 ganashree-pm26/ganashree-pm26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
